@@ -1,2 +1,2 @@
-# ORREO-Foundry
-Open Residential Real Estate Ontology Foundry
+# OREO
+Open Residential Real Estate Ontologies
