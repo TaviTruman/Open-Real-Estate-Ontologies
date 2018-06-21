@@ -1,2 +1,2 @@
 # OREO
-Open Residential Real Estate Ontologies
+Open Real Estate Ontologies
